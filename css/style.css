@@ -1,0 +1,9 @@
+table{
+    border: 1px solid cyan;
+}
+td:nth-child(odd){
+    border: 1px solid crimson;
+}
+td:nth-child(even){
+    border: 1px solid cornflowerblue;
+}
