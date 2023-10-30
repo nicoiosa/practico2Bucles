@@ -8,4 +8,3 @@ for (let contadorExterno = 1; contadorExterno <= 30; contadorExterno++) {
   }
   document.write("<br>");
 }
-f
